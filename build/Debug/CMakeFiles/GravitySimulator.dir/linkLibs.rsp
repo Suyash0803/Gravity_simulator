@@ -1,0 +1,1 @@
+  -LC:/Users/DELL/.conan2/p/b/freeg51cc7cf4273ed/p/lib  -lopengl32 C:/Users/DELL/.conan2/p/b/freeg51cc7cf4273ed/p/lib/libglut.a -lgdi32 -lwinmm -luser32 -lglu32 -lopengl32 -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 

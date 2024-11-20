@@ -1,0 +1,3 @@
+C:/Users/DELL/Downloads/GraitySiulation/build/Debug/CMakeFiles/GravitySimulator.dir
+C:/Users/DELL/Downloads/GraitySiulation/build/Debug/CMakeFiles/edit_cache.dir
+C:/Users/DELL/Downloads/GraitySiulation/build/Debug/CMakeFiles/rebuild_cache.dir
